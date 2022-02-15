@@ -1,0 +1,98 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="2.0">
+  <entry type="iradio">
+    <title>http://radio2020.ddns.net/Stored_Sessions/tracks/Hip-Hop-Rap-Battles.mp3</title>
+    <genre>J~Net Rap Battles</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio2020.ddns.net/Stored_Sessions/tracks/Hip-Hop-Rap-Battles.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644961250</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>http://radio2020.ddns.net/Stored_Sessions/tracks/Grime-Time.mp3</title>
+    <genre>J~Net Grime Time 1</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio2020.ddns.net/Stored_Sessions/tracks/Grime-Time.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644961247</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+    <entry type="iradio">
+    <title>http://radio2020.ddns.net/Stored_Sessions/tracks/d&amp;b-28-10.mp3</title>
+    <genre>J~Net D&amp;B-28-10</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio2020.ddns.net/Stored_Sessions/tracks/d&amp;b-28-10.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644961240</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>http://radio2020.ddns.net/Stored_Sessions/tracks/Dance-13-1-22.mp3</title>
+    <genre>J~Net Dance-13-1</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio2020.ddns.net/Stored_Sessions/tracks/Dance-13-1-22.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1644964073</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>http://radio2020.ddns.net/Stored_Sessions/tracks/track1.mp3</title>
+    <genre>Track1</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio2020.ddns.net/Stored_Sessions/tracks/track1.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644961479</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>http://radio2020.ddns.net/Stored_Sessions/tracks/d&amp;b-30-12-2021.mp3</title>
+    <genre>D&amp;B-30-12</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio2020.ddns.net/Stored_Sessions/tracks/d&amp;b-30-12-2021.mp3</location>
+    <play-count>2</play-count>
+    <last-played>1644961242</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>http://radio2020.ddns.net/Stored_Sessions/tracks/Grime-Time2.mp3</title>
+    <genre>J~Net Grime-Time-2</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio2020.ddns.net/Stored_Sessions/tracks/Grime-Time2.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644961248</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>http://radio2020.ddns.net/Stored_Sessions/tracks/newest_d&amp;b-Mix-6-1-2022.mp3</title>
+    <genre>J~Net D&amp;B-6-1</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://radio2020.ddns.net/Stored_Sessions/tracks/newest_d&amp;b-Mix-6-1-2022.mp3</location>
+    <play-count>1</play-count>
+    <last-played>1644961254</last-played>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+</rhythmdb>

@@ -1,0 +1,21 @@
+goto folder on linux
+
+Code:
+    cd ~/.local/share/rhythmbox
+
+
+
+
+
+show the current file
+
+Code:
+    more rhythmdb.xml
+
+
+
+
+edit the radio playlist
+
+Code:
+    sudo gedit ~/.local/share/rhythmbox/rhythmdb.xml
