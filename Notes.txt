@@ -17,7 +17,7 @@ radio2020.ddns.net
 
 git clone https://github.com/jamieduk/RythmBox_Radio_2022.git
 
-
+cd RythmBox_Radio_2022 && sudo chmod +x *.sh && menu.sh
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
