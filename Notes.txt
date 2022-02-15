@@ -1,4 +1,31 @@
+RythmBox Radio Playlist Update 2022
+
+Forum Link
+
+https://jnet.forumotion.com/t1811-editing-rythmbox-radio-playlist-file-on-linux#2807
+
+Main Site
+
+jnet.sytes.net
+
+Radio Site
+
+radio2020.ddns.net
+
+
+
+
+git clone https://github.com/jamieduk/RythmBox_Radio_2022.git
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Manually Editing
+
 goto folder on linux
+
 
 Code:
     cd ~/.local/share/rhythmbox
