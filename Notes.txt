@@ -13,11 +13,13 @@ Radio Site
 radio2020.ddns.net
 
 
+sudo apt update
+sudo apt install -y rhythmbox rhythmbox-plugins
 
 
 git clone https://github.com/jamieduk/RythmBox_Radio_2022.git
 
-cd RythmBox_Radio_2022 && sudo chmod +x *.sh && menu.sh
+cd RythmBox_Radio_2022 && sudo chmod +x *.sh && ./menu.sh
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
