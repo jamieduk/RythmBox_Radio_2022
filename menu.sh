@@ -14,7 +14,7 @@ path="." # .
 select fname in $path/*.sh; #.sh
 do
     echo you picked $fname \($REPLY\)
-    cd $fname
+    bash $fname
     bash menu.sh
     break;
 done
