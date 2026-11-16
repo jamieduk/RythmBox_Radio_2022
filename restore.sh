@@ -6,9 +6,10 @@
 #
 uname=$USER
 #
+mkdir -p ~/.local/share/rhythmbox/
 echo "Starting RythmBox Backup by J~Net 2022"
 echo ""
-sudo cp /home/$uname/Music/J~Net-Radio/rhythmdb.xml ~/.local/share/rhythmbox/
+sudo cp rhythmdb.xml ~/.local/share/rhythmbox/
 sudo chown $uname *.xml
 echo ""
 echo "Restore Complete!"
